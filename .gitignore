@@ -55,7 +55,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 # IDE specific
 .idea
@@ -64,3 +63,4 @@ typings/
 .DS_Store
 
 example/index.min.js
+config.bat
